@@ -1,4 +1,4 @@
-# Daniel Karam
+# D, Karam
 
 Aspiring cybersecurity professional based in Canada, currently building hands-on skills through lab environments and guided learning.
 
